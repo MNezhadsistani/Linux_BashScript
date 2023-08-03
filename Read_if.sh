@@ -1,6 +1,6 @@
 #!/etc/bash
 echo "You are inserted $1"
-if [ $1 == "ali" ]
+if [ $1 == "Steve" ]
 then
        read -p "Password " password
        if [ $password == "123" ]
